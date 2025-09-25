@@ -31,7 +31,7 @@ Designed with a **clean layout**, **mobile-first approach**, and smooth navigati
 ## 🔗 Links
 
 - **Live Demo**: [View Portfolio](https://codewithayana.github.io/Portfolio/)  
-- **GitHub Repository**: [Portfolio Repo](https://github.com/codewithayana/Portfolio.git)  
+- **GitHub Repository**: [Portfolio Repo](https://github.com/codewithayana/Portfoli)  
 
 ---
 
